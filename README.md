@@ -49,6 +49,4 @@ The model performance is validated using the following metrics:
 | **ROUGE**     | Summary overlap & relevance           |
 
 
-
-pip install -U evaluate transformers sentencepiece
-pip install bert-score sacrebleu rouge-score sumy indic-nlp-library
+ 
