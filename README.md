@@ -7,6 +7,9 @@ This project builds a bilingual summarization system that generates **Telugu abs
 # Improvement 1
 Adding Each Stage as a graph 
 
+# Improvement 2
+Visualizing using Langsmith
+
 ---
 
 ## 🚀 Features
