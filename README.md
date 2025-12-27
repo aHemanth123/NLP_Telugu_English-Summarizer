@@ -9,10 +9,10 @@ This project implements a multi-stage multilingual summarization pipeline using 
 
 ✨ Key Features
 
-LangGraph-based DAG orchestration
-Reusable translation subgraph
-Offline LLM 
-Clean state separation and modular design
+LangGraph-based DAG orchestration    
+Reusable translation subgraph    
+Offline LLM                  
+Clean state separation and modular design         
 
 # Improvement 2
 Visualizing using Langsmith
