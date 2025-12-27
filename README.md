@@ -4,8 +4,15 @@ Telugu Summarizer and English Summarizer
 
 This project builds a bilingual summarization system that generates **Telugu abstractive summaries** using **mT5** and provides **English translations** using **NLLB-200**. The system is designed for multilingual NLP tasks, especially for low-resource Indian languages.
 
-# Improvement 1
-Adding Each Stage as a graph 
+# Improvement 1 
+This project implements a multi-stage multilingual summarization pipeline using LangGraph, enabling structured NLP workflows with local LLM inference via Ollama.
+
+✨ Key Features
+
+LangGraph-based DAG orchestration
+Reusable translation subgraph
+Offline LLM 
+Clean state separation and modular design
 
 # Improvement 2
 Visualizing using Langsmith
